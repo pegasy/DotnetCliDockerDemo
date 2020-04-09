@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArgsDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "arg1 arg2 \"path/to/file\" --namedParam1 0 --path \"path/to/another/file\""
+    }
+  }
+}
